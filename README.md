@@ -36,7 +36,7 @@ Install CipherX in a single command using **PowerShell**:
 ### PowerShell
 
 ```powershell
-irm https://raw.githubusercontent.com/iabhnv19/dsproj/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/iabhnv19/CipherX/main/install.ps1 | iex
 ```
 
 ### Command Prompt (cmd)
