@@ -1,0 +1,16 @@
+# Binaries and build outputs
+*.exe
+*.o
+*.obj
+*.out
+
+# Vault local secrets and saved messages
+vault.key
+messages.txt
+
+# Editor / IDE settings
+.vscode/
+.vs/
+*.swp
+*.user
+
