@@ -55,7 +55,7 @@ try {
     }
 
     # create launcher shim so 'cipherx' runs in any terminal
-    $shim = "@\"$binPath\" %*"
+    $shim = '@"' + $binPath + '" %*'
     Set-Content -Path $shimCmd -Value $shim -Encoding Ascii
 
     # add to User PATH
