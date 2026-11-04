@@ -6,12 +6,6 @@
 
 Seven cryptographic engines, statistical letter frequency telemetry, automated English-heuristic brute-force cracking, and serverless peer-to-peer radio messaging over raw Bluetooth RFCOMM sockets.
 
-<br>
-
-<!-- Insert your demo GIF/video here -->
-
-<br><br>
-
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Language](https://img.shields.io/badge/language-C%2B%2B14-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Compiler](https://img.shields.io/badge/compiler-GCC%20%2F%20MinGW-F5C518?style=for-the-badge)
@@ -68,6 +62,7 @@ Honest and transparent breakdown of how CipherX was built:
 <div align="center">
 
 ```mermaid
+%%{init: { 'theme': 'base', 'themeVariables': { 'pie1': '#2563EB', 'pie2': '#F97316' }}}%%
 pie title Code & Design Authorship
     "AI Assisted (Pair programming, boilerplate & research)" : 63
     "Human Engineered (Core architecture, Bluetooth logic, validation)" : 37
@@ -325,10 +320,25 @@ dsproj/
 
 Released under the [MIT License](LICENSE).
 
+## Developer
+
+Developed By 
 <div align="center">
 
-**Made with C++ by [Abhinav](https://github.com/iabhnv19)**
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/iabhnv19">
+        <img src="https://github.com/iabhnv19.png" width="80" height="80" alt="Abhinav's GitHub profile picture" />
+        <br />
+        <strong>Abhinav</strong>
+        <br />
+        @iabhnv19
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+<div align="center">
 If you found this useful, consider starring the repository!
-
 </div>
